@@ -9,5 +9,6 @@ public class Lab2 {
     public static void main(String[] args)
     {
         System.out.println("Hello World, my GitHub account name is MansiPatel23");
+        System.out.print("Hello Welcome  to github");
     }
 }
